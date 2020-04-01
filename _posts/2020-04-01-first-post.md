@@ -28,8 +28,8 @@ driveId: 15Z5NOYtrOaGDIZuaAl5Y7sRqxRDAfa82/preview
 인터넷을 찾아 보았지만 지정한 폴더에 원하는 파일만 압축 푸는 법에 대해서는 찾기가 힘들었다.  
 그래서 비슷한 명령어로 여러번 시행착오를 해 보았고, 올바른 명령어 작성법을 찾아냈다.  
   
-처음 실행한 명령어: tar -zxvf all.tar.gz *.txt -C txt  (이 경우에는 압축이 원하는대로 풀리지 않았다.)  
-시행착오를 통해 해결한 명령어: tar -zxvf all.tar.gz -C txt *.txt  (결국 순서의 문제였다는 걸 여러가지 시도해보고 알았다.)  
+**처음 실행한 명령어:** tar -zxvf all.tar.gz *.txt -C txt  (이 경우에는 압축이 원하는대로 풀리지 않았다.)  
+**시행착오를 통해 해결한 명령어:** tar -zxvf all.tar.gz -C txt *.txt  (결국 순서의 문제였다는 걸 여러가지 시도해보고 알았다.)  
 ## 참고할 만한 내용  
 * [리눅스 tar 명령어 사용법](https://recipes4dev.tistory.com/146)  
   
