@@ -30,15 +30,15 @@ chgrp와 chmod 명령어를 이용하여 info 폴더의 그룹과 허가권을 �
 3) info.sh 실행 결과 캡처  
 sh info.sh  
 ![](https://salmon99.github.io/assets/images/4week/8.png)  
+info.sh 파일을 vi편집기로 열어 위와 같은 내용을 작성했습니다.  
 ![](https://salmon99.github.io/assets/images/4week/7.png)  
+info.sh 파일을 실행한 화면입니다.  
   
 4) info.sh 파일의 소유권 및 허가권 정보 캡처  
 ls 명령어 활용  
 ![](https://salmon99.github.io/assets/images/4week/9.png)  
 ![](https://salmon99.github.io/assets/images/4week/10.png)  
   
-![](https://salmon99.github.io/assets/images/4week/1.png)  
-
 ## 새로 배운 내용  
 **압축 묶기와 풀기**  
 컴퓨터를 사용하면서 windows로 압축 묶기와 풀기는 다른 프로그램(알집과 같은)이 있어야 가능하다고 생각했는데 리눅스에서 간단하게 명령어로 파일들을 묶거나 압축하고 풀 수 있다는 것을 알았다.  
