@@ -38,7 +38,7 @@ info.sh 파일을 실행한 화면입니다.
 ls 명령어 활용  
 ![](https://salmon99.github.io/assets/images/4week/9.png)  
 info 파일의 소유권 및 허가권을 바꿨습니다.  
-그룹을 chgrp developer을 이용하여 w-user과 d-user이 들어가 있는 그룹으로 바꾸었고, chmod 764를 이용하여 그룹의 경우 읽고 쓸 수 있으며 그 외의 사람들은 읽기만 할 수 있도록 바꾸었습니다. 
+그룹을 chgrp developer을 이용하여 w-user과 d-user이 들어가 있는 그룹으로 바꾸었고, chmod 764를 이용하여 그룹의 경우 읽고 쓸 수 있으며 그 외의 사람들은 읽기만 할 수 있도록 바꾸었습니다.  
 ![](https://salmon99.github.io/assets/images/4week/10.png)  
   
 ## 새로 배운 내용  
