@@ -22,8 +22,8 @@ LVM은 논리적 볼륨을 효율적이고 유연하게 관리하기 위한 커�
   
 ## 문제가 발생하거나 고민한 내용  
 RAID1(결함 허용 시스템)에 결함을 만든 후 복구하는 실습에서 교수님의 화면과 똑같이 나오지 않아서 당황했다.  
-![](https://salmon99.github.io/assets/images/6week/1.PNG)  
-![](https://salmon99.github.io/assets/images/6week/2.PNG)  
+![](https://salmon99.github.io/assets/images/6week/1.png)  
+![](https://salmon99.github.io/assets/images/6week/2.png)  
 그러나 내가 작성했던 명령어들을 자세히 살펴보니 명령어에 오타가 있었다는 것을 알았다.  
 sudo mdadm /dev/md0 --add /dev/sdb1  
 sudo mdadm /dev/md1 --add /dev/sdb2  
@@ -32,9 +32,9 @@ sudo mdadm /dev/md0 --add /dev/sdb1
 sudo mdadm /dev/md0 --add /dev/sdb2  
 으로 md0에 두개의 디스크를 추가해버린 것이었다.  
 강의로는 디스크를 추가하는 방법만 알고 제거하는 방법은 알 수가 없었기 때문에 검색을 했더니 제거하는 옵션인 -r을 찾을 수 있었다.  
-![](https://salmon99.github.io/assets/images/6week/3.PNG)  
+![](https://salmon99.github.io/assets/images/6week/3.png)  
 그래서 md0에 추가했던 sdb2 디스크를 제거하고 다시 md1에 sdb2를 추가했더니 해결되었다.  
-![](https://salmon99.github.io/assets/images/6week/4.PNG) 
+![](https://salmon99.github.io/assets/images/6week/4.png) 
   
 ## 참고할 만한 내용  
 * [[리눅스] RAID ( 명령어 : mdadm )](https://dgblog.tistory.com/141)
