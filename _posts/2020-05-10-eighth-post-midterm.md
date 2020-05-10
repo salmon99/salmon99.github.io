@@ -64,3 +64,4 @@ driveId4: 1lujvX1ZEw5ybAEnQHx8cwozX69a1j6_A/preview
 * [SEC_ERROR_OCSP_OLD_RESPONSE 오류 해결 방법](https://support.mozilla.org/ko/kb/troubleshoot-time-errors-secure-websites)
   
 ## 회고  
+처음에 실습 과제를 보며 지금까지 다 해봤던 것이지만 영구 마운트 설정 등을 할 생각에 눈앞이 캄캄했다. 그리고 실제로 해 보면서도 마음대로 되지 않아서 머리를 싸매고 있었는데, 어떤 학우분이 올려주신 질문을 참고한 것이 큰 도움이 되었다. 방법을 찾아서 인터넷을 참고하여 실습을 진행하니 생각보다 어렵지 않았다. 이번 주에는 과제도 밀리지 않고 해내서 뿌듯하다.
