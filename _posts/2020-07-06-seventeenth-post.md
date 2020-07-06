@@ -15,7 +15,7 @@ last_modified_at: 2020-07-06T13:06:00
 * [파이썬 3.8.0에 키비 설치 문제](https://github.com/kivy/kivy/issues/6563)
   
 위 링크에서 해결책을 얻었다.  
->>pip install kivy[base] kivy_examples --pre --extra-index-url https://kivy.org/downloads/simple/.  
+>>pip install kivy[base] kivy_examples --pre --extra-index-url https://kivy.org/downloads/simple/
   
 명령 프롬프트에 위의 명령어를 입력하면 정상적으로 kivy가 작동된다.  
   
