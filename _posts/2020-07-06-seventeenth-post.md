@@ -3,10 +3,10 @@ title:  "Windows 10에서 파이썬 3.8.0 이상에 kivy 설치하기"
 excerpt: ""
 
 categories:
-  - ComputerSystemManagement
+  - Python, kivy
 tags:
-  - ComputerSystemManagement
-last_modified_at: 2020-06-30T16:15:00
+  - Python, kivy
+last_modified_at: 2020-07-06T13:06:00
 --- 
 * [Python 3.8.4 설치](https://www.python.org/downloads/release/python-384rc1/)
 * [Windows에 키비 설치](https://kivy.org/doc/stable/installation/installation-windows.html)
