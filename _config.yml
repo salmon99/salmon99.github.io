@@ -20,7 +20,7 @@ title                    : "컴퓨터공학과 심리학을 배우는 학생"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Nam Hyun Jeong"
-description              : "배우고 싶은 건 많은 학생의 블로그"
+description              : "이제는 학생이 아니라 직장인 ..."
 url                      : # the base hostname & protocol for your site e.g. "https://salmon99.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -32,7 +32,7 @@ words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
-    shortname: 'salmon99-github-io' # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname: "salmon99-github-io" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -275,7 +275,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
       comments: true
-      share: true
+      share: false
       related: true
