@@ -1,4 +1,5 @@
 ---
+published: true
 title:  "[PXE 부팅] USB 없이 네트워크로 Ubuntu 설치하기"
 excerpt: "Tiny PXE Server를 사용하여 네트워크 부팅으로 Ubuntu 설치하는 가이드"
 
