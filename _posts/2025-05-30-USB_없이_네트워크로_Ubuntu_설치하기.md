@@ -10,7 +10,7 @@ tags:
   - Linux
   - NetworkBooting
   - TinyPXEServer
-last_modified_at: 2025-05-31T03:12:00
+last_modified_at: 2025-05-30T03:12:00
 --- 
 
 귀여운 나만의 미니PC가 생겼다.
