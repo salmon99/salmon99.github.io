@@ -10,6 +10,8 @@ tags:
   - L2TP
   - ipTIME
   - DDNS
+  - VPNServer
+  - Router
 last_modified_at: 2026-05-28T10:30:00
 --- 
 
