@@ -18,11 +18,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko_KR"
-title                    : "컴퓨터공학과 심리학을 배우는 학생"
+title                    : "인프라 엔지니어가 되고싶은 직장인"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Nam Hyun Jeong"
-description              : "이제는 학생이 아니라 직장인 ..."
+description              : "일본 센다이 거주중인 직장인"
 url                      : "https://salmon99.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -98,7 +98,7 @@ analytics:
 author:
   name             : "Nam Hyun Jeong"
   avatar           : "/assets/images/bio-photo.jpeg"
-  bio              : "배우고 싶은 건 많음"
+  bio              : "인프라 엔지니어는 어떤 사람이 되는 건가요?"
   location         : "South Korea"
   email            : namhj99@naver.com
   links:
