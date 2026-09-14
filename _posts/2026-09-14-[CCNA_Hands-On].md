@@ -26,12 +26,14 @@ last_modified_at: 2026-09-14T15:00:00
 ### 1. 토폴로지＆발생 이슈(Topology & Issue)
 ### 1. 構成および発生事象
 - **토폴로지(Topology) / 構成図**
+```text
                   [ Fa0/8 ]
  [ SW1 ] ========================== [ SW2 ]
     |                                  |
     +-- Fa0/1: PC1 (VLAN 1)            +-- Fa0/1: PC4 (VLAN 1)
     +-- Fa0/2: PC2 (VLAN 10)           +-- Fa0/2: PC5 (VLAN 10)
     +-- Fa0/3: PC3 (VLAN 20)           +-- Fa0/3: PC6 (VLAN 20)
+```
 
 - **발생 이슈(Issue):** PC2 / PC5 ＆ PC3 / PC6 같은 VLAN간 Ping 통신 실패
 - **事象:** PC2 / PC5 および PC3 / PC6 の同一VLAN間におけるPing通信不可
