@@ -18,10 +18,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko_KR"
-title                    : "인프라 엔지니어가 되고싶은 직장인"
+title                    : "일본 센다이 거주중인 직장인"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Nam Hyun Jeong"
+name                     : "NHJ"
 description              : "일본 센다이 거주중인 직장인"
 url                      : "https://salmon99.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
