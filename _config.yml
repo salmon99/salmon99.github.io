@@ -96,10 +96,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Nam Hyun Jeong"
+  name             : "NHJ"
   avatar           : "/assets/images/bio-photo.jpeg"
-  bio              : "인프라 엔지니어는 어떤 사람이 되는 건가요?"
-  location         : "South Korea"
+  bio              : "일본 센다이 거주중인 한국인"
+  location         : "JAPAN"
   email            : namhj99@naver.com
   links:
    # - label: "Email"
