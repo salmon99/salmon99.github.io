@@ -20,7 +20,7 @@ last_modified_at: 2026-09-15T15:00:00
 - **Date:** 2026-09-15
 - **Environment:** Cisco Packet Tracer / Udemy(【超絶入門】CCNA対策 Packet Tracerで学ぶ ハンズオン講座)
 - **Goal:** 라우터를 통한 Inter-VLAN Routing 구현 실습
-トランクポートを経由したスイッチ間VLAN通信の実装
+ルーターを用いたInter-VLAN Routing実装実習
 
 ---
 
