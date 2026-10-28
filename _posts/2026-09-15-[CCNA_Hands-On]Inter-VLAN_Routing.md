@@ -27,6 +27,7 @@ last_modified_at: 2026-09-15T15:00:00
 ### 1. 토폴로지＆발생 이슈(Topology & Issue)
 ### 1. 構成および発生事象
 - **토폴로지(Topology) / 構成図**
+
 ```text
               [ Router (L3) ]
                      │
